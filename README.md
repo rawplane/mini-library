@@ -59,7 +59,7 @@ Aplikasi web sistem informasi peminjaman buku perpustakaan modern berbasis **Lar
 
 1. **Clone repository & masuk ke direktori proyek**:
    ```bash
-   git clone <repository-url> mini-library
+   git clone https://github.com/rawplane/mini-library.git
    cd mini-library
    ```
 
